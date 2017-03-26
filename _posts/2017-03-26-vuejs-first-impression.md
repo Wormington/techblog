@@ -1,5 +1,5 @@
 ---
-title: Vuejs: First impression
+title: "Vuejs: First impression"
 author: Joachim Harris
 layout: post
 video: false
