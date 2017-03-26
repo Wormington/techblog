@@ -5,16 +5,11 @@ gems:
   - jekyll-sitemap
 
 # Site settings
-title: "Mads Buch"
+title: "Joachim Harris"
 description: >
    Technical articles
 
-collections:
-  - papers
-  - gists
-  - curated
-
-email: madspbuch@gmail.com
+email: joachimharris@gmail.com
 
 #blog logo
 logo: "/assets/images/logo.png"
@@ -22,9 +17,9 @@ logo: "/assets/images/logo.png"
 # blog cover
 cover: "/assets/images/cover.jpg"
 
-name: 'Mads Buch'
-author: 'Mads Buch'
-author_image: "/assets/images/author.png"
+name: 'Joachim Harris'
+author: 'Joachim Harris'
+author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
@@ -35,13 +30,13 @@ permalink:	  :title/
 markdown:	    kramdown
 highlighter:  rouge
 
-url: "http://madsbuch.com" # the base hostname & protocol for your site
+url: "http://joachimharris.com" # the base hostname & protocol for your site
 baseurl: "/blog"
 
 ###### SOCIAL
 
 #used to display twitter cards
-twitter_handle: '@madspbuch'
+twitter_handle: '@joachimharris'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -52,7 +47,7 @@ fb_app_id: 1727612590830968
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/madspbuch
+    url:	https://twitter.com/joachimharris
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -66,7 +61,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/madsbuch
+    url:	https://github.com/joachimharris
     desc:	Fork me on github
     share_url:
     share_title:
