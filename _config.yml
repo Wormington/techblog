@@ -5,11 +5,11 @@ gems:
   - jekyll-sitemap
 
 # Site settings
-title: "Joachim Harris"
+title: "Emil Illum Vandekerckhove"
 description: >
    Technical articles
 
-email: joachimharris@gmail.com
+email: emil.vdk@gmail.com
 
 #blog logo
 logo: "/assets/images/logo.png"
@@ -17,8 +17,8 @@ logo: "/assets/images/logo.png"
 # blog cover
 cover: "/assets/images/cover.jpg"
 
-name: 'Joachim Harris'
-author: 'Joachim Harris'
+name: 'Emil Illum Vandekerckhove'
+author: 'Emil Illum Vandekerckhove'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -30,13 +30,13 @@ permalink:	  :title/
 markdown:	    kramdown
 highlighter:  rouge
 
-url: "http://joachimharris.com" # the base hostname & protocol for your site
+url: "http://emilillum.com" # the base hostname & protocol for your site
 baseurl: "/techblog"
 
 ###### SOCIAL
 
 #used to display twitter cards
-twitter_handle: '@joachimharris'
+twitter_handle: '@emilillum'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -47,7 +47,7 @@ fb_app_id: 1727612590830968
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/joachimharris
+    url:	https://twitter.com/emil
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -61,14 +61,14 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/joachimharris
+    url:	https://github.com/emilillum
     desc:	Fork me on github
     share_url:
     share_title:
     share_link:
 
 #  - icon:	google-plus
-#    url:	https://google.com/???
+#    url:	
 #    desc:	Add me on google+
 #    share_url:
 #    share_title:
