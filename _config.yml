@@ -47,14 +47,14 @@ fb_app_id: 1727612590830968
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/emil
+    url:	https://twitter.com/emilillum
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
 #  - icon:	facebook
-#    url:	https://facebook.com/???
+#    url:	https://facebook.com/emilillum.vandekerckhove
 #    desc: Connect with me facebook
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
@@ -68,7 +68,7 @@ social:
     share_link:
 
 #  - icon:	google-plus
-#    url:	
+#    url:	https://plus.google.com/u/0/105915808449723228492
 #    desc:	Add me on google+
 #    share_url:
 #    share_title:
