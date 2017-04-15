@@ -1,6 +1,6 @@
 ---
-title: "Vuejs: First impression"
-author: Joachim Harris
+title: "Elm: first impression"
+author: Emil Illum Vandekerckhove
 layout: post
 video: false
 comments: false
