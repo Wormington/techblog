@@ -11,6 +11,9 @@ description: >
 
 email: emil.vdk@gmail.com
 
+#blog logo
+logo: "/assets/images/logo.png"
+
 # blog cover
 cover: "/assets/images/cover.jpg"
 
