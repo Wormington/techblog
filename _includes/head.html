@@ -23,7 +23,7 @@
     <meta name="twitter:description" content="{{ site.description | strip_html | strip_newlines | truncate: 200 }}" />
     {% endif %}
   {% endif %}
-  
+
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
   {% if page.excerpt %}
@@ -38,7 +38,7 @@
   {% if site.fb_app_id %}
   <meta property="fb:app_id" content="{{ site.fb_app_id }}" />
   {% endif %}
-  
+
 
   {% if page.date %}<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">{% endif %}
 
@@ -53,7 +53,7 @@
 
   <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
-  <script>
+  <!-- <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -62,5 +62,5 @@
   ga('create', 'UA-3209922-9', 'auto');
   ga('send', 'pageview');
 
-</script>
+</script -->
 </head>
